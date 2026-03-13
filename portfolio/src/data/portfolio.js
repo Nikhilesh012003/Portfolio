@@ -7,8 +7,8 @@ export const personalInfo = {
   bio: "MCA 2025 graduate with strong expertise in the MERN stack, RESTful API development, and AI-assisted engineering. I build scalable, production-grade applications with a passion for clean code, smart tooling, and beautiful interfaces.",
   email: "nikhilesh2354@gmail.com",
   github: "https://github.com/Nikhilesh012003",
-  linkedin: "https://linkedin.com/in/yourusername",
-  resumeUrl: "/resume.pdf",
+  linkedin: "#",
+  resumeUrl: "",
   location: "Nagpur, Maharashtra",
 };
 
